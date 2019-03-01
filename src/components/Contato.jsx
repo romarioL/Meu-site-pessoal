@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { Jumbotron, Row, Col, Form, Image} from 'react-bootstrap'
+import { Jumbotron, Row, Col, Form, Image, Button} from 'react-bootstrap'
 import './Contato.css'
 
 
@@ -36,6 +36,7 @@ class Contato extends Component {
                       <Form.Label>Mensagem</Form.Label>
                       <Form.Control as="textarea" rows="10" />
                   </Form.Group>
+                  <Button variant="primary">Me chame</Button>
 			    </Form>
 			  </Row>
 			  </Jumbotron>
