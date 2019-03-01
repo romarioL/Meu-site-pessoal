@@ -1,0 +1,38 @@
+body {
+  background-color: #E0FFFF;
+}
+
+.banner {
+	width: 100%;
+	height: 400px;
+}
+
+.jumbotron {
+	margin-bottom:  0;
+	background-color: #E0FFFF;
+	text-align: center;
+	margin-top: 17px;
+}
+
+
+.text-banner {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	height: 500px;
+	background-color: #E0FFFF;
+	font-size: 3em;
+}
+
+
+.text-banner button {
+	margin-top: 10px;
+	font-size: 0.5em;
+	background-color: #C71585;
+	border: none;
+}
+
+.text-banner button:hover {
+   background-color: #C71585;
+}

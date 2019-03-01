@@ -1,0 +1,23 @@
+
+.form {
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	flex-direction: column;
+}
+
+.form input {
+	width: 1000px;
+	font-style: italic;
+	border-radius: 5px;
+}
+
+.form label {
+	font-weight: bold;
+}
+
+
+
+.jumbotron {
+	text-align: center;
+}

@@ -1,0 +1,20 @@
+.img {
+	height: 200px;
+}
+
+.cards-row {
+	margin-top: 50px;
+}
+
+.card {
+	border: none;
+}
+
+.card button {
+	background-color: #C71585;
+	border: none;
+}
+
+.card button:hover {
+	background-color: #C71585;
+}
