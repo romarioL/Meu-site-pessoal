@@ -2,7 +2,7 @@
   "name": "site-exemplo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages"
+  "homepage": "https://romariol.github.io/Meu-site-pessoal/."
   "dependencies": {
     "react": "^16.8.3",
     "react-bootstrap": "^1.0.0-beta.5",
